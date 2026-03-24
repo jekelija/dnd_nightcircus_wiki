@@ -16,7 +16,7 @@ The Student Union (Sanctum Arcanum) of the [[trollbottom-institute|Trollbottom I
 ## 🎭 Notable NPCs
 
 - "[[jake|Jake]]" from the Ice Garden
-- [[the-tween|"The tween"]]
+- [[Elias|"Elias"]]
 - Kenton
 - The gentleman in the mirror
 - Potion shop attendant ([[mr-glass|Mr. Glass]])
@@ -40,7 +40,7 @@ The Student Union (Sanctum Arcanum) of the [[trollbottom-institute|Trollbottom I
 
 Our intrepid travelers meet after a long day of classes in the Student Union at the cafe that Gulfoss works at. As he shuts down the shop, they head over to the Night Circus to explore. Once inside, they visit the vendors and purchase caramel apples, apple cider, and pumpkin bread. After noshing on these delicacies, they pass by the giant ticking clockwork in the center of the path and past the cauldron of black and white flames into the [[the-cloud-maze|Cloud Maze]].
 
-There, Poppy runs into Kenton, who briefly acknowledges her before jumping down. The group has a rollicking good time bounding about before going into the [[the-cave-of-voices|Cave of Voices]]. There, they run into [[the-tween|"the tween"]]; a worker who is very nervous and tells them that he is not allowed to speak to the circus-goers. He reveals little; only that the Cave of Voices is his favorite, and that he ran away from an orphanage to join the circus. He runs away; Gulfoss attempts to follow but is apprehended by a guard. He manages to knock out the guard with a "gambler's biscuit", and Mel loots his body, finding a key and some gold.
+There, Poppy runs into Kenton, who briefly acknowledges her before jumping down. The group has a rollicking good time bounding about before going into the [[the-cave-of-voices|Cave of Voices]]. There, they run into [[elias|"Elias"]]; a worker who is very nervous and tells them that he is not allowed to speak to the circus-goers. He reveals little; only that the Cave of Voices is his favorite, and that he ran away from an orphanage to join the circus. He runs away; Gulfoss attempts to follow but is apprehended by a guard. He manages to knock out the guard with a "gambler's biscuit", and Mel loots his body, finding a key and some gold.
 
 Meanwhile, Mel hears distinct voices in the Cave of Voices that sound distinctly like a story or a memory of a sculptor.
 

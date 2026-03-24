@@ -1,6 +1,5 @@
 ---
 title: "Orin Bellweather — Stargazer"
-draft: true
 tags:
   - npc
   - ribbet

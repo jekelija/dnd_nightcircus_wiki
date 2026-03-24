@@ -2,6 +2,6 @@
 title: "Mel"
 ---
 
-# Mel
+# Mel Vrynn
 
-...i forget everything about Mel's backstory and how she knows them... all i know is she is a compulsive pickpocket.
+Lives in same dorm as Cadence Cheeks, and bonded over her last name. Cheeks described her as, “Two doors down and kind of annoying”. She is majoring in arcame arts with double major in sorcery and power. She has a tiny whispering magic eightball (whispering orb - https://stringguardian15.github.io/magicorb/).
