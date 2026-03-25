@@ -32,8 +32,8 @@ The Student Union (Sanctum Arcanum) of the [[trollbottom-institute|Trollbottom I
 
 ## 🗡️ Items Found
 
-- Vial of glittery gold swirling magic-ness
-- A guard's key
+- [[vial-of-glittery-gold|Vial of glittery gold swirling magic-ness]]
+- [[guards-key|A guard's key]]
 - Some gold
 
 ## 📜 Summary
