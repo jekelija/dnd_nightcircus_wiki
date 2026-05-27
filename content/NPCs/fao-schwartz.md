@@ -5,16 +5,18 @@ tags:
   - professor
 ---
 
-# Fao Schwartz — Professor Doctor Doctor of Arcane Lit
+# Fao Schwartz
 
-## Summary
+## Family
 
-Fao Schwartz is a Professor (Professor Doctor Doctor) of Alchemy at the [[trollbottom-institute|Trollbottom Institute]]. He looks a bit like Confucius and is [[mel|Mel's]] alchemy professor. He authored the potions book "Stirring Potions for Beginners."
+Brother — [[bao-bun-schwartz|Bao Bun Schwartz]]
 
-His brother is [[bao-bun-schwartz|Bao Bun Schwartz]], who delves into the dark arts.
+## Role
 
-He loves Mel as a student for her enthusiasm and desire to learn.
+Fao Schwartz is a Professor (Professor Doctor Doctor) of Alchemy at the [[trollbottom-institute|Trollbottom Institute]]. He looks a bit like Confucius and is [[mel|Mel's]] alchemy professor. He authored the potions book "Stirring Potions for Beginners." He loves Mel as a student for her enthusiasm and desire to learn.
 
 ## Party Interactions
 
-The party brought him the vial that Mel stole, and he identified it as definitely from the Midnight domain of magic, positively humming with energy. He directed them to the library to check out his brother's book, "A List of Crimes Made Easier by Invisibility." He also mentioned visiting the Night Circus himself and finding it delightful, even conjuring a paper tiger on the blackboard. He pointed the party toward [[krystal-nouveau|Professor Krystal Nouveau]] for questions about transmutation.
+### Session 2
+
+The party brought him the [[vial-of-glittery-gold|vial]] that [[mel|Mel]] stole. He identified it as definitely from the Midnight domain of magic, positively humming with energy. He directed them to the [[library|library]] to check out his brother's book, "A List of Crimes Made Easier by Invisibility." He also mentioned visiting the Night Circus himself and finding it delightful, even conjuring a paper tiger on the blackboard. He pointed the party toward [[krystal-nouveau|Professor Krystal Nouveau]] for questions about transmutation.

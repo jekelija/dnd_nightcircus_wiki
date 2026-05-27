@@ -6,5 +6,10 @@ tags:
 
 # Circus Guards
 
-**Ancestry:** Various  
-**Role:** Enforcers, keeps circus-goers from asking too many questions.
+## Ancestry
+
+Various
+
+## Role
+
+The circus guards serve as enforcers, keeping circus-goers from asking too many questions and escorting troublemakers off the grounds. They rotate when the circus moves locations.

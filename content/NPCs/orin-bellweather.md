@@ -5,26 +5,22 @@ tags:
   - ribbet
 ---
 
-# Orin Bellweather — Stargazer
+# Orin Bellweather
 
-**Ancestry:** Ribbet
+## Ancestry
+
+Ribbet
+
+## Role
+
+Orin guides guests through constellations and distant worlds at the [[the-stargazer|Stargazer]] tent.
 
 ## Vibe
 
 Gentle awe, scholarly wonder, stargazer-poet.
 
-## Role
+## Party Interactions
 
-Orin guides guests through constellations and distant worlds.
+### Session 2
 
-## Connections
-
-- Finds peace speaking with [[madame-kestrel|Madame Kestrel]]
-- Avoided by [[maelin-thorne|Maelin Thorne]] due to his intuition
-- Gently warns the party away from following the lanterns of [[isolde-virex|Isolde Virex]]
-
-## Unease
-
-He senses something is wrong but does not know the full truth.
-
-He avoids the caboose entirely.
+The party rode mining carts through a stunning constellation experience at the [[the-stargazer|Stargazer]] tent, guided by Orin.

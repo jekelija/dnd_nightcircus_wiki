@@ -5,7 +5,7 @@ tags:
   - librarian
 ---
 
-# Bramwell Quill — Assistant Archivist
+# Bramwell Quill
 
 ## Role
 

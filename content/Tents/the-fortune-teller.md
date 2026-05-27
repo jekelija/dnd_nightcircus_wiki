@@ -1,6 +1,5 @@
 ---
 title: "The Fortune Teller"
-draft: true
 tags:
   - tent
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Trollbottom Institute"
+title: "Red Dragon Inn"
 ---
 
 # Red Dragon Inn

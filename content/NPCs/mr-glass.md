@@ -5,16 +5,18 @@ tags:
   - galapa
 ---
 
-# Mr. Glass — Curator of Potions
+# Mr. Glass
 
-**Ancestry:** Galapa
+## Ancestry
+
+Galapa
+
+## Role
+
+Mr. Glass administers drinks at the [[the-potion-shop|Potion Shop]] with ritual precision, carefully watching reactions. He refuses to speak to circus-goers about the circus itself.
 
 ## Vibe
 
 Polite, clinical, unnervingly calm.
 
-## Role
-
-Mr. Glass administers drinks with ritual precision, carefully watching reactions.
-
-“You’re asking questions meant for daylight. And we’re not here for the daylight.”
+> _"You're asking questions meant for daylight. And we're not here for the daylight."_
