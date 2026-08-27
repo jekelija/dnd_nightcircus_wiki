@@ -28,7 +28,7 @@ title: "Session 3 – The Underground"
 
 - [[featherbone|Featherbone]] (controls falling speed)
 - Throwing blade (stuck in stone, Arthurian-style)
-- Two short swords (found in the Underground)
+- Two short swords (found in [[the-underground|the Underground]])
 - 5 stolen books (taken by Mel & Cadence from Alfred Tennyson's home)
 
 ## Summary
@@ -83,7 +83,7 @@ Mel consults her orb — "Frost or Lion" — and announces: "I think we go with 
 
 Poppy tears the slip of paper with the Stone Lion written on it, and the party is immediately transported to the bookstore. Lights glow upstairs in the curator's apartment. [[alfred-tennyson|Alfred Tennyson]] buzzes them up, and they explain the situation. A frantic search of his home reveals a bomb. With 18 seconds to spare, the party cuts the correct wire. The bomb does not go off. Shortly after, the authorities arrive on scene.
 
-[[marguerite-voss|Marguerite Voss]], the Chief of Police, speaks with Poppy and Gulfoss while Mel and Cadence quietly steal five books from Tennyson's shelves. The police are skeptical that [[robert-frost|Robert]] is actually missing, since only [[betsy|Betsy]] reported it. As Voss threatens to arrest the party, Poppy tears the "ROBERT" paper and the group vanishes — reappearing in a dark, dank stone room.
+[[marguerite-voss|Marguerite Voss]], the Chief of Police, speaks with Poppy and Gulfoss while Mel and Cadence quietly steal five books from Tennyson's shelves. The police are skeptical that [[robert-frost|Robert]] is actually missing, since only [[betsy|Betsy]] reported it. As Voss threatens to arrest the party, Poppy tears the "ROBERT" paper and the group vanishes — reappearing in a dark, dank stone room — the first room of [[the-underground|the Underground]].
 
 ### The Underground
 

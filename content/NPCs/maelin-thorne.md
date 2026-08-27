@@ -32,7 +32,7 @@ She’s filtering them.
 
 - Older sister to [[maribel-thorne|Maribel Thorne]]
 - Coordinates closely with [[mr-glass|Mr. Glass]]
-- Sees [[elias-quill|Elias Quill]] as a liability that should have been removed
+- Sees [[elias|Elias]] as a liability that should have been removed
 
 ## Party Interaction
 
@@ -42,4 +42,4 @@ She’s filtering them.
 
 ## Act II Role
 
-Once [[elias-quill|Elias Quill]] speaks up, Maelin becomes the clearest internal antagonist.
+Once [[elias|Elias]] speaks up, Maelin becomes the clearest internal antagonist.

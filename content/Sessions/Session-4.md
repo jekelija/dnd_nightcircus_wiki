@@ -4,7 +4,7 @@ title: "Session 4 – Finding Frost"
 
 ## Starting Location
 
-The Underground — a dead-end room deep in the maze, with rats piled against the door.
+[[the-underground|The Underground]] — a dead-end room deep in the maze, with rats piled against the door.
 
 ## Party Members
 

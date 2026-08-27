@@ -16,7 +16,7 @@ The Student Union (Sanctum Arcanum) of the [[trollbottom-institute|Trollbottom I
 ## 🎭 Notable NPCs
 
 - "[[jake|Jake]]" from the Ice Garden
-- [[Elias|"Elias"]]
+- [[elias|"Elias"]]
 - Kenton
 - The gentleman in the mirror
 - Potion shop attendant ([[mr-glass|Mr. Glass]])
@@ -58,7 +58,7 @@ Meanwhile, a drunk barges into the bar, demanding more drink and demanding answe
 
 Frantically, the group rushes to the nearest unexplored tent. They go into the [[the-ice-garden|Ice Garden]], where they see a man weeping at a statue. He tells them that his wife, a sculptor, was last seen going to the circus several weeks ago. When he came to the circus to meet up with her, she was gone and this ice statue, which is almost a perfect likeness of her, stood in the Ice Garden instead. As the ice melts, it forms into a number of her sculptures that she has created over the years before forming anew.
 
-He tells them that since then, he has followed the circus around the country by utilizing a network of fellow circus fans. He waits for a telegram and then takes a train to the circus and waits in this tent for his wife to come back. He is uncertain if the ice sculpture is his wife herself, or somehow a representation of her, or what. He is clearly still in shock and mourning. Some guards come into the tent, still looking for you, and drag [[jake-Jake]] away. He is clearly a re-occurring pest in their side, and they treat him gently but firmly. As he is taken away, he yells that he is staying at the Red Dragon Inn. The guards continue to chase you; 2 through the tent, who yell and attract the attention of another guard who runs along the fence line by the train, and 2 more who come from the east. You crash into the forest and attempt to hide... but unfortunately your party comprises of a giant and a really tall dragon-fairie. The guards find you, and fighting ensues. You manage to defeat the two guards directly behind you, and scare off the two guards from the east by nature of Poppy being essentially invulnerable to them.
+He tells them that since then, he has followed the circus around the country by utilizing a network of fellow circus fans. He waits for a telegram and then takes a train to the circus and waits in this tent for his wife to come back. He is uncertain if the ice sculpture is his wife herself, or somehow a representation of her, or what. He is clearly still in shock and mourning. Some guards come into the tent, still looking for you, and drag [[jake|Jake]] away. He is clearly a re-occurring pest in their side, and they treat him gently but firmly. As he is taken away, he yells that he is staying at the Red Dragon Inn. The guards continue to chase you; 2 through the tent, who yell and attract the attention of another guard who runs along the fence line by the train, and 2 more who come from the east. You crash into the forest and attempt to hide... but unfortunately your party comprises of a giant and a really tall dragon-fairie. The guards find you, and fighting ensues. You manage to defeat the two guards directly behind you, and scare off the two guards from the east by nature of Poppy being essentially invulnerable to them.
 
 You regroup post battle and head back to the college town to get some rest.
 

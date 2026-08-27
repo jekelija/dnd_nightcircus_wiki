@@ -20,7 +20,7 @@ Madame Kestrel helps guests choose chairs and encourages them to stay as long as
 
 ## Connections
 
-- Quiet ally of [[elias-quill|Elias Quill]]
+- Quiet ally of [[elias|Elias]]
 - Offers refuge to [[tati-kuznetsov|Tati Kuznetsov]]
 - Watched—but not controlled—by [[maelin-thorne|Maelin Thorne]]
 

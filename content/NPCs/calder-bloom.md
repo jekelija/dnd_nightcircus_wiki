@@ -16,5 +16,5 @@ He is exuberant, generous, and seemingly sincere—an embodiment of joy engineer
 ## Connections
 
 - Idolizes [[isolde-virex|Isolde Virex]]'s craftsmanship without understanding its cost
-- Actively avoids conversations with [[elias-quill|Elias Quill]]
+- Actively avoids conversations with [[elias|Elias]]
 - Relies on [[maelin-thorne|Maelin Thorne]] to ensure his act always has eager participants

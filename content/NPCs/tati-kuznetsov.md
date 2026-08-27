@@ -22,7 +22,7 @@ Tati delights in guests’ creativity and wanders the tent, erasing drawings lef
 
 - Confides in [[madame-kestrel|Madame Kestrel]]
 - Actively avoids [[mr-glass|Mr. Glass]]
-- Terrified of the caboose [[elias-quill|Elias Quill]] once mentioned
+- Terrified of the caboose [[elias|Elias]] once mentioned
 
 ## Fear
 

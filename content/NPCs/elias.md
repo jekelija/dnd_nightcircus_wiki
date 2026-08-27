@@ -32,3 +32,7 @@ The party encountered Elias in the [[the-cave-of-voices|Cave of Voices]]. He was
 ### Session 2
 
 [[mel|Mel]] slipped into the [[the-cave-of-voices|Cave of Voices]] alone and found Elias again. He revealed that his brother Ezra used to work at the circus before vanishing in Chicago — and that he doesn't buy Riley's story that Ezra simply left.
+
+### Session 5
+
+Elias left a [[granite-note|note]] for the party in the empty field where the Night Circus had been, signed only "E." It contained a fragment of granite pointing them to [[little-rock|Little Rock]], and a plea: _"Please come fast, I'm worried I'm next."_

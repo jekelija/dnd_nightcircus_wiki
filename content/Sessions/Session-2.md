@@ -16,7 +16,7 @@ Breakfast at the [[trollbottom-institute|Trollbottom Institute]] in Springfield.
 ## 🎭 Notable NPCs
 
 - "[[jake|Jake]]" at the [[red-dragon-inn|Red Dragon Inn]]
-- [[Elias|"Elias"]]
+- [[elias|"Elias"]]
 - [[kenton|Kenton]] at the [[red-dragon-inn|Red Dragon Inn]]
 - [[orin-bellweather|Orin Bellweather]] at the [[the-stargazer|The Stargazer]]
 - [[isolde-virex|Isolde Virex]] at the [[the-fire-tent|The Fire Tent]]

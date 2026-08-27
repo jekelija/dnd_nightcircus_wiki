@@ -16,3 +16,7 @@ Marta is the Dean of Enchanted Smithery at the [[trollbottom-institute|Trollbott
 ### Session 2
 
 [[poppy-skycleaver|Poppy]] shared some of what the party had encountered at the circus. Marta helped construct an arcane combat wheelchair for fellow professor [[krispy-kripke|Krispy Kripke]]. Both Marta and Krispy joined the party for their nighttime circus run.
+
+### Session 5
+
+[[poppy-skycleaver|Poppy]] recruited Marta to repair her armor before the party's trip to [[little-rock|Little Rock]].
